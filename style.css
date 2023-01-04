@@ -15,4 +15,8 @@ h2{
     color: rgba(95, 158, 160, 0.493);
     text-align: center;
 }
+p{
+    background-color: brown;
+    bold: 20px
+}
 
